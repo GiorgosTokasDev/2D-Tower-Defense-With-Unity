@@ -1,20 +1,37 @@
-<h1>2D Tower Defense made with Unity </h1>
+<h1>🛡️ Tower Defense Thesis Project - Unity 2D </h1>
 
 
 <h2>Description</h2>
-you will learn soon...
-<br />
+🎓 This project was developed as part of my undergraduate thesis.  
+It is a fully functional **2D Tower Defense** game prototype built with **Unity** and **C#**, designed with modular architecture and expandable gameplay mechanics.
 
 
-<h2>Languages and Utilities Used</h2>
+<h2> 🎯 Goal of the project </h2>
+The main objective was to create a structured and testable gameplay system that simulates a Tower Defense experience with:
+- Wave spawning system
+- Modular turret logic (including Elemental towers)
+- Upgradeable defenses
+- Score and leaderboard tracking
+- UI/UX interaction management
+- Player name input and session saving
 
+<h2> Technologies used </h2>
 
-- <b>C# </b>
+- Unity 2022+
+- C# (MonoBehaviour patterns, events, singletons)
+- TextMeshPro
+- Unity UI
+- Git for version control
 
-<h2>Environments Used </h2>
+<h2>Status & Future Plans </h2>
 
-- <b>unity 6 </b>
-- <b> Visual Studio </b>
+Although developed as an academic project, I plan to **gradually upgrade it** in my free time by adding:
+- New visual assets and animations
+- Boss enemies and more tower types
+- Mobile-friendly UI
+- Save/load system
+- Theme switching (sci-fi, fantasy etc.)
+
 
 <h2>Game walk-through:</h2>
 
