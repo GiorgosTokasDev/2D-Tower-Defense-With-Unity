@@ -43,6 +43,7 @@ Game Main Menu <br/>
 
 </p>
 
+Feel free to explore, fork, or leave feedback!
 <!--
  ```diff
 - text in red
