@@ -37,7 +37,7 @@ Although developed as an academic project, I plan to **gradually upgrade it** in
 
 <p align="center">
 Game Main Menu <br/>
-<img src="https://i.imgur.com/l3a5NTT.png" height="100%" width="100%" alt="Main Menu"/>
+<img src="https://i.imgur.com/l3a5NTT.png" height="80%" width="80%" alt="Main Menu"/>
 <br />
 <br />
 
